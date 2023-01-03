@@ -1,3 +1,0 @@
-[submodule "test_submodule_in"]
-	path = test_submodule_in
-	url = https://github.com/s0ngkran/test_submodule_in
